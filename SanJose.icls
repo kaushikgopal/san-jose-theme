@@ -1,23 +1,29 @@
 <scheme name="SanJose" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-12T19:29:32</property>
+    <property name="created">2018-03-13T05:30:53</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.1.0.11</property>
-    <property name="modified">2018-03-12T19:29:45</property>
+    <property name="ideVersion">3.1.0.10</property>
+    <property name="modified">2018-03-13T05:31:06</property>
     <property name="originalScheme">SanJose</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="7dc09a" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="394045" />
+    <option name="DELETED_LINES_COLOR" value="f69767" />
     <option name="GUTTER_BACKGROUND" value="394045" />
+    <option name="MODIFIED_LINES_COLOR" value="85b3cc" />
     <option name="SELECTION_BACKGROUND" value="1c4c56" />
     <option name="SELECTION_FOREGROUND" value="807f7f" />
     <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="a096c8" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -188,6 +194,24 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f69767" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="cd7b35" />
+        <option name="ERROR_STRIPE_COLOR" value="cd7b35" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="1c4c56" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="385570" />
+        <option name="ERROR_STRIPE_COLOR" value="85b3cc" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
