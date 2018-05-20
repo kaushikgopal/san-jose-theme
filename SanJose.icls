@@ -4,12 +4,10 @@
     <property name="created">2018-03-13T05:30:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.10</property>
-    <property name="modified">2018-03-13T05:31:06</property>
+    <property name="modified">2018-05-20T12:35:05</property>
     <property name="originalScheme">SanJose</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
+  <option name="LINE_SPACING" value="1.23" />
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
@@ -73,7 +71,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FOREGROUND" value="807f7f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -143,12 +141,12 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FOREGROUND" value="807f7f" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -302,17 +300,17 @@
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FOREGROUND" value="807f7f" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7dc09a" />
+        <option name="FOREGROUND" value="a096c8" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="807f7f" />
+        <option name="FOREGROUND" value="444343" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
