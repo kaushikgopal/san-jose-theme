@@ -1,13 +1,15 @@
 <scheme name="SanJose" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-13T05:30:53</property>
+    <property name="created">2018-09-08T03:17:23</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.1.0.10</property>
-    <property name="modified">2018-05-20T12:35:05</property>
+    <property name="ideVersion">3.1.4.0</property>
+    <property name="modified">2018-09-08T03:17:27</property>
     <property name="originalScheme">SanJose</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.23" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
@@ -239,13 +241,13 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="c1845d" />
+        <option name="FOREGROUND" value="f69767" />
         <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="c1845d" />
+        <option name="FOREGROUND" value="f69767" />
         <option name="BACKGROUND" value="686868" />
       </value>
     </option>
