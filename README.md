@@ -1,9 +1,9 @@
-# San Jose theme (for IntelliJ)
-A custom Intellij theme modeled inspired by [PatMurrayDEV -> inspired by Apple's WWDC 2017 session slides](https://github.com/PatMurrayDEV/San-Jose)
+# San Jose theme (for Terminal & IntelliJ)
+A custom Terminal and Intellij theme inspired by [PatMurrayDEV -> inspired by Apple's WWDC 2017 session slides](https://github.com/PatMurrayDEV/San-Jose)
 
-![preview on IntelliJ](https://raw.githubusercontent.com/kaushikgopal/san-jose-intellij-theme/master/preview-intellij.png)
+![preview on IntelliJ](https://media.githubusercontent.com/media/kaushikgopal/san-jose-theme/master/preview-intellij.png)
 
-![preview on Terminal](https://raw.githubusercontent.com/kaushikgopal/san-jose-intellij-theme/master/preview-intellij.png)
+![preview on Terminal](https://media.githubusercontent.com/media/kaushikgopal/san-jose-theme/master/preview-terminal.png)
 
 ## Build Your Own? Here's the Colours!
 
