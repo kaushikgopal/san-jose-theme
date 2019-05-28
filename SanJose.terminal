@@ -1056,7 +1056,7 @@
 	<key>FontAntialias</key>
 	<true/>
 	<key>FontHeightSpacing</key>
-	<real>1.3</real>
+	<real>1.25</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0600000000000001</real>
 	<key>SelectionColor</key>
