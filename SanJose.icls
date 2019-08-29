@@ -216,6 +216,12 @@
         <option name="ERROR_STRIPE_COLOR" value="85b3cc" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffbf7" />
+        <option name="BACKGROUND" value="b71c1c" />
+      </value>
+    </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1c4c56" />
