@@ -19,6 +19,8 @@
     <option name="CARET_ROW_COLOR" value="394045" />
     <option name="DELETED_LINES_COLOR" value="f69767" />
     <option name="GUTTER_BACKGROUND" value="394045" />
+    <option name="LINE_NUMBERS_COLOR" value="a4a3a3" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fdd285" />
     <option name="MODIFIED_LINES_COLOR" value="85b3cc" />
     <option name="SELECTION_BACKGROUND" value="1c4c56" />
     <option name="SELECTION_FOREGROUND" value="807f7f" />
