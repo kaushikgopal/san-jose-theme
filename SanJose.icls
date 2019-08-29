@@ -15,7 +15,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="7dc09a" />
-    <option name="CARET_COLOR" value="ffffff" />
+    <option name="CARET_COLOR" value="7e57c2" />
     <option name="CARET_ROW_COLOR" value="394045" />
     <option name="DELETED_LINES_COLOR" value="f69767" />
     <option name="GUTTER_BACKGROUND" value="394045" />
@@ -348,6 +348,11 @@
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="b71c1c" />
+      </value>
+    </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -359,6 +364,12 @@
         <option name="BACKGROUND" value="f69767" />
         <option name="EFFECT_COLOR" value="f69767" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffbf7" />
+        <option name="BACKGROUND" value="b71c1c" />
       </value>
     </option>
   </attributes>
