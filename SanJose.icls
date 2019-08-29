@@ -1,15 +1,12 @@
 <scheme name="SanJose" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-09-08T03:17:23</property>
+    <property name="created">2019-08-28T22:14:56</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.1.4.0</property>
-    <property name="modified">2018-09-08T03:17:27</property>
+    <property name="ideVersion">3.5.0.21</property>
+    <property name="modified">2019-08-28T22:15:00</property>
     <property name="originalScheme">SanJose</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
@@ -308,24 +305,34 @@
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bc3f3c" />
+      </value>
+    </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="807f7f" />
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a096c8" />
+        <option name="FOREGROUND" value="85b3cc" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="444343" />
+        <option name="FOREGROUND" value="555555" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffcc00" />
+        <option name="FOREGROUND" value="fdd285" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
