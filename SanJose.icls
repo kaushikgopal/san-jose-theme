@@ -1,10 +1,10 @@
 <scheme name="SanJose" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-28T22:16:37</property>
+    <property name="created">2019-09-02T23:24:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2019-08-28T22:16:40</property>
+    <property name="modified">2019-09-02T23:25:24</property>
     <property name="originalScheme">SanJose</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
@@ -244,6 +244,13 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fdd285" />
+        <option name="EFFECT_COLOR" value="fdd285" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="f69767" />
@@ -336,6 +343,13 @@
         <option name="FOREGROUND" value="fdd285" />
       </value>
     </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffbf7" />
+        <option name="BACKGROUND" value="b71c1c" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -367,6 +381,12 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="b71c1c" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="fdd285" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
