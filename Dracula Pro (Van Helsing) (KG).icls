@@ -1,11 +1,15 @@
 <scheme name="Dracula Pro (Van Helsing) (KG)" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-18T13:44:13</property>
+    <property name="created">2020-02-20T16:52:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-02-18T13:44:17</property>
+    <property name="modified">2020-02-20T16:52:39</property>
     <property name="originalScheme">Dracula Pro (Van Helsing) (KG)</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a2ff99" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
@@ -37,6 +41,7 @@
     <option name="INDENT_GUIDE" value="414d58" />
     <option name="LINE_NUMBERS_COLOR" value="414d58" />
     <option name="MODIFIED_LINES_COLOR" value="99ffee" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="708ca9" />
     <option name="SELECTED_INDENT_GUIDE" value="708ca9" />
     <option name="SELECTED_TEARLINE_COLOR" value="708ca9" />
@@ -1049,6 +1054,36 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="99ffee" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b71c1c" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4955" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="589df6" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffff99" />
       </value>
     </option>
     <option name="List/map to object conversion">
