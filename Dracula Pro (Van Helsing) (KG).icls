@@ -1,10 +1,10 @@
 <scheme name="Dracula Pro (Van Helsing) (KG)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-20T16:52:32</property>
+    <property name="created">2020-03-02T16:30:13</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-02-20T16:52:39</property>
+    <property name="ideVersion">3.6.1.0</property>
+    <property name="modified">2020-03-02T16:30:23</property>
     <property name="originalScheme">Dracula Pro (Van Helsing) (KG)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
@@ -13,7 +13,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="a2ff99" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
-    <option name="CARET_COLOR" value="ffffff" />
+    <option name="CARET_COLOR" value="e00970" />
     <option name="CARET_ROW_COLOR" value="263340" />
     <option name="CONSOLE_BACKGROUND_KEY" value="b0d0f" />
     <option name="DELETED_LINES_COLOR" value="ff5554" />
@@ -1123,6 +1123,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="414d58" />
@@ -1705,7 +1711,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffaa99" />
+        <option name="FOREGROUND" value="fffbf7" />
+        <option name="BACKGROUND" value="b71c1c" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
