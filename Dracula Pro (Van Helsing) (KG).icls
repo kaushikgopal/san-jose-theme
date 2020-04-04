@@ -500,7 +500,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffbf7" />
-        <option name="BACKGROUND" value="b71c1c" />
+        <option name="BACKGROUND" value="E0245E" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1055,7 +1055,7 @@
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b71c1c" />
+        <option name="FOREGROUND" value="E0245E" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
@@ -1709,7 +1709,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffbf7" />
-        <option name="BACKGROUND" value="b71c1c" />
+        <option name="BACKGROUND" value="E0245E" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
